@@ -1,4 +1,4 @@
-project(SMHasher)
+0project(SMHasher)
 
 cmake_minimum_required(VERSION 2.4)
 
